@@ -92,7 +92,7 @@
         self.itemBGSelectedColor = KItemBGSelectedColor;
         self.space = 15;
         self.itemHeight = 30;
-        self.lineNum = 4;
+        self.lineNum = 3;
         self.showInWindow = NO;
         self.inWindowMinY = 0.f;
         
